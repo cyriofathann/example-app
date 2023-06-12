@@ -39,7 +39,7 @@
         <div class="container">
 
             <a class="navbar-brand" href="#">
-                <img src="{{asset('alikhlas/images/logo.png')}}" alt="Logo SMK N 2 Purbalingga">
+                <img src="{{asset('alikhlas/images/logo.png')}}"  alt="Logo SMK N 2 Purbalingga">
                 <h1>TK AL - IKHLAS <br>DEPOK</h1>
             </a>
 
@@ -96,7 +96,7 @@
     <ul id="autoWidth" class="cs-hidden">
         <li class="item-a">
             <section class="slideshow">
-                <img class="satu" src="{{asset('alikhlas/images/banner-s')}}hd.png" alt="Team Work">
+                <img class="satu" src="{{asset('alikhlas/images/banner-shd.png')}}"  alt="Team Work">
                 <div class="shadow"></div>
                 <div class="container">
                     <div class="mainText">
@@ -112,7 +112,7 @@
 
         <li class="item-a">
             <section class="slideshow">
-                <img class="dua" src="{{asset('alikhlas/images/banner-s')}}hd.png" alt="Team Work">
+                <img class="dua" src="{{asset('alikhlas/images/banner-shd.png')}}"  alt="Team Work">
                 <div class="shadow"></div>
                 <div class="container">
                     <div class="mainText">
@@ -128,7 +128,7 @@
 
         <li class="item-a">
             <section class="slideshow">
-                <img class="tiga" src="{{asset('alikhlas/images/banner-s')}}hd.png" alt="Team Work">
+                <img class="tiga" src="{{asset('alikhlas/images/banner-shd.png')}}"  alt="Team Work">
                 <div class="shadow"></div>
                 <div class="container">
                     <div class="mainText">
@@ -144,7 +144,7 @@
 
         <li class="item-a">
             <section class="slideshow">
-                <img class="empat" src="{{asset('alikhlas/images/banner-s')}}hd.png" alt="Team Work">
+                <img class="empat" src="{{asset('alikhlas/images/banner-shd.png')}}"  alt="Team Work">
                 <div class="shadow"></div>
                 <div class="container">
                     <div class="mainText">
@@ -160,7 +160,7 @@
 
         <li class="item-a">
             <section class="slideshow">
-                <img class="lima" src="{{asset('alikhlas/images/banner-s')}}hd.png" alt="Team Work">
+                <img class="lima" src="{{asset('alikhlas/images/banner-shd.png')}}"  alt="Team Work">
                 <div class="shadow"></div>
                 <div class="container">
                     <div class="mainText">
@@ -177,7 +177,7 @@
 
         <li class="item-a">
             <section class="slideshow">
-                <img class="enam" src="{{asset('alikhlas/images/banner-s')}}hd.png" alt="Team Work">
+                <img class="enam" src="{{asset('alikhlas/images/banner-shd.png')}}"  alt="Team Work">
                 <div class="shadow"></div>
                 <div class="container">
                     <div class="mainText">
@@ -213,7 +213,7 @@
 
     <div class="kepsek">
         <div class="container">
-            <img src="{{asset('alikhlas/images/darimun.')}}jpeg" alt="Kepala SMK N 2 Purbalingga">
+            <img src="{{asset('alikhlas/images/darimun.jpeg')}}"  alt="Kepala SMK N 2 Purbalingga">
 
             <div class="visiMisi">
 
@@ -250,33 +250,27 @@
             <div class="boxJurusan">
 
                 <div class="perBox">
-                    <img src="{{asset('alikhlas/images/1.jpg" a')}}lt="RPL">
+                    <img src="{{asset('alikhlas/images/1.jpg')}}" alt="RPL">
                     <h3>Rekayasa Perangkat Lunak</h3>
                 </div>
 
                 <div class="perBox">
-                    <img src="{{asset('alikhlas/images/2.jpeg" ')}}alt="ATU">
+                    <img src="{{asset('alikhlas/images/2.jpeg')}}" alt="ATU">
                     <h3>Agribisnis Ternak Unggas</h3>
                 </div>
 
                 <div class="perBox">
-                    <img src="{{asset('alikhlas/images/3.jpeg" ')}}alt="APHP">
+                    <img src="{{asset('alikhlas/images/3.jpeg')}}" alt="APHP">
                     <h3>Agribisnis Pengolahan Hasil Pangan</h3>
                 </div>
 
                 <div class="perBox">
-                    <img src="{{asset('alikhlas/images/4.jpeg" ')}}alt="API">
+                    <img src="{{asset('alikhlas/images/4.jpeg')}}" alt="API">
                     <h3>Agribisnis Perikanan Ikan</h3>
                 </div>
 
-                <!-- <div class="perBox">
-                    <img src="{{asset('alikhlas/images/6.jpg" a')}}lt="AKUTANSI">
-                    <h3>Akutansi Keuangan & Lembaga</h3>
-                </div> -->
-
-
                 <div class="perBox">
-                    <img src="{{asset('alikhlas/images/5.jpeg" ')}}alt="TKR">
+                    <img src="{{asset('alikhlas/images/5.jpeg')}}" alt="TKR">
                     <h3>Teknik Kendaraan Ringan</h3>
                 </div>
 
@@ -292,7 +286,7 @@
 
 
             <a class="perArtikelHome">
-                <img src="{{asset('alikhlas/images/1.jpg" a')}}lt="Foto Artikel">
+                <img src="{{asset('alikhlas/images/1.jpg')}}" alt="Foto Artikel">
                 <h3>Tutorial Login Laravel 8</h3>
                 <small>Di tulis oleh : <span>Rifki Romadhan</span></small>
                 <p>
@@ -302,18 +296,7 @@
             </a>
 
             <a class="perArtikelHome">
-                <img src="{{asset('alikhlas/images/1.jpg" a')}}lt="Foto Artikel">
-                <h3>Tutorial Login Laravel 8</h3>
-                <small>Di tulis oleh : <span>Rifki Romadhan</span></small>
-                <p>
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corrupti quo, iure repellendus explicabo
-                    delectus quasi amet libero iusto sequi at.
-                </p>
-            </a>
-
-
-            <a class="perArtikelHome">
-                <img src="{{asset('alikhlas/images/1.jpg" a')}}lt="Foto Artikel">
+                <img src="{{asset('alikhlas/images/1.jpg')}}" alt="Foto Artikel">
                 <h3>Tutorial Login Laravel 8</h3>
                 <small>Di tulis oleh : <span>Rifki Romadhan</span></small>
                 <p>
@@ -324,7 +307,18 @@
 
 
             <a class="perArtikelHome">
-                <img src="{{asset('alikhlas/images/1.jpg" a')}}lt="Foto Artikel">
+                <img src="{{asset('alikhlas/images/1.jpg')}}" alt="Foto Artikel">
+                <h3>Tutorial Login Laravel 8</h3>
+                <small>Di tulis oleh : <span>Rifki Romadhan</span></small>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corrupti quo, iure repellendus explicabo
+                    delectus quasi amet libero iusto sequi at.
+                </p>
+            </a>
+
+
+            <a class="perArtikelHome">
+                <img src="{{asset('alikhlas/images/1.jpg')}}" alt="Foto Artikel">
                 <h3>Tutorial Login Laravel 8</h3>
                 <small>Di tulis oleh : <span>Rifki Romadhan</span></small>
                 <p>
@@ -336,7 +330,7 @@
 
 
             <a class="perArtikelHome">
-                <img src="{{asset('alikhlas/images/1.jpg" a')}}lt="Foto Artikel">
+                <img src="{{asset('alikhlas/images/1.jpg')}}" alt="Foto Artikel">
                 <h3>Tutorial Login Laravel 8</h3>
                 <small>Di tulis oleh : <span>Rifki Romadhan</span></small>
                 <p>
@@ -348,7 +342,7 @@
 
 
             <a class="perArtikelHome">
-                <img src="{{asset('alikhlas/images/1.jpg" a')}}lt="Foto Artikel">
+                <img src="{{asset('alikhlas/images/1.jpg')}}" alt="Foto Artikel">
                 <h3>Tutorial Login Laravel 8</h3>
                 <small>Di tulis oleh : <span>Rifki Romadhan</span></small>
                 <p>
@@ -380,8 +374,8 @@
 
     <!-- sosmed icon -->
     <div class="iconBox">
-        <a href="" class="perIconBox wa">
-            <i class="fab fa-whatsapp"></i>
+        <a href="https://api.whatsapp.com/send?phone=6285894227199&text=20%Hi,20%saya,20%ingin,20%melihat,20%formulir,20%tk-al,20%ikhlas." class="perIconBox wa">
+            <i class="fab fa-whatsapp">Chat Whatsapp</i>
         </a>
 
         <a href="" class="perIconBox fb">
@@ -474,7 +468,7 @@
 
     <div class="footerCopyright">
         <p class="text-white">
-            <i class="far fa-copyright"></i>2021 By : <span>Rifki Romadhan</span>.&nbsp; Inspired by <a
+            <i class="far fa-copyright"></i>2021 By : <span>Cyrio Fathan Thambia / Rivaldi Wahyu Santoso</span>.&nbsp; Inspired by <a
                 href="https://www.acsjakarta.sch.id/">ACS
                 Jakarta</a>
         </p>
@@ -483,7 +477,7 @@
 
 
 
-    <script src="js/script.js"></script>
+    <script src="{{asset('alikhlas/js/script.js')}}"></script>
 </body>
 
 </html>

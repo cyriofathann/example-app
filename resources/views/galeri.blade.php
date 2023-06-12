@@ -11,7 +11,7 @@
     <meta name="description" content="">
 
     <title>Galeri TK AL - IKHLAS</title>
-    <link rel="stylesheet" href="{{asset('alikhlas/css/style.css')}}">
+    <link rel="stylesheet" href="{{asset('alikhlas/css/style.css')}}">"
     <link rel="shortcut icon" href="{{asset('alikhlas/images/logo.png')}}" type="image/x-icon">
 
     <!-- font awesome -->
@@ -109,39 +109,39 @@
 
             <tbody>
                 <tr>
-                    <td><img width="100" height="50" src="{{asset('alikhlas/images/5e72f65c')}}1f909-teamwork-desktop2.jpg" alt=""></td>
+                    <td><img width="100" height="50" src="{{asset('alikhlas/images/5e72f65c')}}"1f909-teamwork-desktop2.jpg" alt=""></td>
                     <td>Belajar Microskop</td>
                     <td><a href="perGaleri.html" class="btn btn-primary">Selengkapnya</a></td>
                 </tr>
 
 
                 <tr>
-                    <td><img width="100" height="50" src="{{asset('alikhlas/images/5e72f68f')}}bd34a-excellent-desktop2.jpg" alt=""></td>
+                    <td><img width="100" height="50" src="{{asset('alikhlas/images/5e72f68f')}}"bd34a-excellent-desktop2.jpg" alt=""></td>
                     <td>Belajar Farmasi</td>
                     <td><a href="" class="btn btn-primary">Selengkapnya</a></td>
                 </tr>
 
                 <tr>
-                    <td><img width="100" height="50" src="{{asset('alikhlas/images/5e72f6ad')}}bf417-commitment2-desktop.jpg" alt=""></td>
+                    <td><img width="100" height="50" src="{{asset('alikhlas/images/5e72f6ad')}}"bf417-commitment2-desktop.jpg" alt=""></td>
                     <td>Belajar Camping</td>
                     <td><a href="" class="btn btn-primary">Selengkapnya</a></td>
                 </tr>
 
                 <tr>
-                    <td><img width="100" height="50" src="{{asset('alikhlas/images/5e72f713')}}4ca67-integrity-desktop2.jpg" alt=""></td>
+                    <td><img width="100" height="50" src="{{asset('alikhlas/images/5e72f713')}}"4ca67-integrity-desktop2.jpg" alt=""></td>
                     <td>Belajar ACting Film</td>
                     <td><a href="" class="btn btn-primary">Selengkapnya</a></td>
                 </tr>
 
                 <tr>
-                    <td><img width="100" height="50" src="{{asset('alikhlas/images/5e72f72c')}}ca561-respect-desktop2.jpg" alt=""></td>
+                    <td><img width="100" height="50" src="{{asset('alikhlas/images/5e72f72c')}}"ca561-respect-desktop2.jpg" alt=""></td>
                     <td>Belajar Acting Film</td>
                     <td><a href="" class="btn btn-primary">Selengkapnya</a></td>
                 </tr>
 
 
                 <tr>
-                    <td><img width="100" height="50" src="{{asset('alikhlas/images/5e72f74b')}}99ff0-humility-desktop2.jpg" alt=""></td>
+                    <td><img width="100" height="50" src="{{asset('alikhlas/images/5e72f74b')}}"99ff0-humility-desktop2.jpg" alt=""></td>
                     <td>Farmasi</td>
                     <td><a href="" class="btn btn-primary">Selengkapnya</a></td>
                 </tr>
@@ -247,11 +247,15 @@
 
     <div class="footerCopyright">
         <p class="text-white">
-            <i class="far fa-copyright"></i>2021 By : <span>Rifki Romadhan</span>.&nbsp; Inspired by <a
+            <i class="far fa-copyright"></i>2023By : <span>Cyrio Fathan Thambia / Rivaldi Wahyu Santoso</span>.&nbsp; Inspired by <a
                 href="https://www.acsjakarta.sch.id/">ACS
                 Jakarta</a>
         </p>
     </div>
+
+
+
+<script src="{{assets('alikhlas/js/script.js')}}/script>
 </body>
 
 </html>

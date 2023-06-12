@@ -232,7 +232,7 @@
 
     <div class="footerCopyright">
         <p class="text-white">
-            <i class="far fa-copyright"></i>2021 By : <span>Rifki Romadhan</span>.&nbsp; Inspired by <a
+            <i class="far fa-copyright"></i>2023 By : <span>Cyrio Fathan Thambia / Rivaldi Wahyu Santoso</span>.&nbsp; Inspired by <a
                 href="https://www.acsjakarta.sch.id/">ACS
                 Jakarta</a>
         </p>
